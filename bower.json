@@ -1,0 +1,21 @@
+{
+  "name": "website",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Christina Burtscher <christina.burtscher@gmx.at>"
+  ],
+  "license": "Proprietary",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
