@@ -52,3 +52,47 @@
 // Sections
 @import "sections/header";
 @import "sections/footer";
+
+.img-total-width{
+  width: 100%;
+}
+
+.navbar {
+  overflow: hidden;
+  border-bottom: grey solid 5px;
+}
+
+.container h1{
+  font-size: 60px;
+  text-align: center;
+  padding: 10px;
+}
+
+.container .row .glyphicon{
+  padding: 10px;
+  text-align: center;
+  display: block;
+  color: black;
+}
+
+.container .row .glyphicon-text{
+  text-align: center;
+}
+
+.container .row .border{
+  padding: 5px;
+  border: lightgray solid 2px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+  height: 200px;
+}
+
+.banner{
+  margin: 100px 0 100px 0;
+  padding: 10px 0 10px 0;
+}
+
+.carousel{
+  margin: 0 5% 0 5%;
+  padding: 25px;
+}
